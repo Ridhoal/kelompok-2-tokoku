@@ -8,19 +8,16 @@ const Home = () => {
     <div>
       <Navbars />
       <Banner />
-      <div style={{ display: "flex", marginLeft: "35px" }}>
-        <Cards />
-        <Cards />
-        <Cards />
+      <div style={{ display: "flex"  }}>
         <Cards />
       </div>
 
-      <div style={{ display: "flex", marginLeft: "35px" }}>
+      {/* <div style={{ display: "flex", marginLeft: "180px" }}>
         <Cards />
         <Cards />
         <Cards />
-        <Cards />
-      </div>
+        
+      </div> */}
       <Footer />
     </div>
   );
