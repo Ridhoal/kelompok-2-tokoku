@@ -1,0 +1,20 @@
+{
+    "laptop":[
+        {
+            "id":11,
+            "name":"laptop 11",
+            "poster_path": "https://source.unplash",
+            "price": 450000,
+            "stock":5,
+            "desc" : "harga murah kualitas ga murahan"
+        },
+        {
+            "id":11,
+            "name":"laptop 11",
+            "poster_path": "https://source.unplash",
+            "price": 450000,
+            "stock":5,
+            "desc" : "harga murah kualitas ga murahan"
+        }
+ ]
+}
